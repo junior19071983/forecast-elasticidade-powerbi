@@ -139,19 +139,19 @@ dashboard-vendas-powerbi/
 
 ---
 
-## 🚀 Próximos Passos
-
-- [ ] Integração com API de dados em tempo real
-- [ ] Implementação de análise RFM (Recency, Frequency, Monetary)
-- [ ] Dashboard mobile otimizado
-- [ ] Análise de cohort para retenção de clientes
-- [ ] Alertas automáticos por email baseados em thresholds
 
 ---
 
-## 📸 Prévia do Dashboard
+## ## 📸 Prévia do Dashboard
 
-> 📌 *Screenshots serão adicionadas em breve*
+   ### Dashboard Principal
+   ![Dashboard Overview](dashboard_principal.png)
+
+   ### Análise Temporal de Receita
+   ![Análise Temporal](analise_temporal.png)
+
+   ### Forecast Preditivo
+   ![Forecast](forecast.png)
 
 ---
 
