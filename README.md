@@ -145,13 +145,13 @@ dashboard-vendas-powerbi/
 ##  📸 Prévia do Dashboard
 
 ### Dashboard Principal
-![Dashboard Principal](images/dashboard_principal.png)
+![Dashboard Principal](1.png)
 
 ### Análise Temporal de Receita
-![Análise Temporal](images/analise_temporal.png)
+![Análise Temporal](2.png)
 
 ### Forecast Preditivo
-![Forecast](images/forecast.png)
+![Forecast](3.png)
 
 
 ---
